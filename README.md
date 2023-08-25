@@ -1,5 +1,6 @@
 <h1>Auth with JWT</H1>
 <h4>Technology->PHP native</h4>
+<h3>Connect JWT script</h3>
 <br>
 <u><h4>Contains</h4></u>
 <h5><li>Access using JWT </li></h5>
